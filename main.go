@@ -60,7 +60,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint"          // ai绘图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"           // 随机老婆
@@ -174,7 +174,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
@@ -259,7 +259,7 @@ func init() {
 
 	// 通过代码写死的方式添加主人账号
 	// sus = append(sus, 12345678)
-	// sus = append(sus, 87654321)
+	// sus = append(sus, 2911332819)
 
 	// 启用 webui
 	// go webctrl.RunGui(*g)
